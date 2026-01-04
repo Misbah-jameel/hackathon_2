@@ -1,0 +1,5 @@
+# Hackathon 2 - Phase 1 Dependencies
+# Install with: pip install -r requirements.txt
+
+# Google Gemini AI SDK (optional - for AI features)
+google-generativeai>=0.3.0
