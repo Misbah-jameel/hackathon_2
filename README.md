@@ -8,6 +8,19 @@
 
 AI-Powered Task Management Console Application built with Python and Google Gemini.
 
+## Demo
+
+<!-- Add your screenshot or demo gif here -->
+<!-- ![Demo](assets/demo.gif) -->
+<!-- ![Screenshot](assets/screenshot.png) -->
+
+> **Coming Soon:** Add a screenshot or demo gif to showcase the application.
+>
+> To add your own:
+> 1. Create an `assets` folder in the project root
+> 2. Add your `screenshot.png` or `demo.gif`
+> 3. Uncomment the appropriate line above
+
 ## Features
 
 - **Task Management (CRUD)**: Create, view, update, and delete tasks
