@@ -1,0 +1,82 @@
+# Task Manager Pro
+
+AI-Powered Task Management Console Application built with Python and Google Gemini.
+
+## Features
+
+- **Task Management (CRUD)**: Create, view, update, and delete tasks
+- **Priority Levels**: Low, Medium, High, Urgent
+- **Status Tracking**: Pending, In Progress, Completed, Cancelled
+- **Due Dates**: Set and track task deadlines
+- **Tags**: Organize tasks with custom tags
+- **Search & Filter**: Find tasks by keyword, status, priority, or overdue status
+- **Statistics**: View task completion stats and summaries
+
+### AI Features (Powered by Google Gemini)
+
+- Task improvement suggestions
+- Priority recommendations
+- Task breakdown into subtasks
+- Smart natural language search
+- Task summarization
+- Daily motivation
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Misbah-jameel/-hackathon_2.git
+cd -hackathon_2
+```
+
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+3. (Optional) Set up Gemini API for AI features:
+```bash
+set GEMINI_API_KEY=your_api_key_here
+```
+Get your API key at: https://makersuite.google.com/app/apikey
+
+## Usage
+
+Run the application:
+```bash
+python main.py
+```
+
+### Main Menu Options
+
+| Option | Description |
+|--------|-------------|
+| 1 | Add new task |
+| 2 | View all tasks |
+| 3 | View task details |
+| 4 | Update task |
+| 5 | Delete task |
+| 6 | Mark task complete |
+| 7 | Search tasks |
+| 8 | Filter tasks |
+| 9 | View statistics |
+| A | AI Assistant |
+| C | Clear all tasks |
+| Q | Quit |
+
+## Project Structure
+
+```
+hackathon_2/
+├── main.py           # Entry point and menu system
+├── models.py         # Task, Priority, Status models
+├── store.py          # Task storage and persistence
+├── ui.py             # User interface utilities
+├── gemini_service.py # Google Gemini AI integration
+├── tasks.json        # Task data storage
+└── requirements.txt  # Python dependencies
+```
+
+## License
+
+MIT
