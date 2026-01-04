@@ -1,5 +1,11 @@
 # Task Manager Pro
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
+![AI Powered](https://img.shields.io/badge/AI-Google%20Gemini-orange?logo=google&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
+[![GitHub stars](https://img.shields.io/github/stars/Misbah-jameel/hackathon_2?style=social)](https://github.com/Misbah-jameel/hackathon_2)
+
 AI-Powered Task Management Console Application built with Python and Google Gemini.
 
 ## Features
@@ -25,8 +31,8 @@ AI-Powered Task Management Console Application built with Python and Google Gemi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Misbah-jameel/-hackathon_2.git
-cd -hackathon_2
+git clone https://github.com/Misbah-jameel/hackathon_2.git
+cd hackathon_2
 ```
 
 2. Install dependencies:
