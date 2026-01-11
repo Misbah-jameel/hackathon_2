@@ -48,3 +48,4 @@ print(format_task(task, detailed=True))
 print_separator()
 
 print("\n  [i] Demo complete! Run 'python task_manager.py' for interactive mode.")
+
