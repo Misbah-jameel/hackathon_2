@@ -11,3 +11,6 @@ venv/
 .vscode/
 *.swp
 *.swo
+
+# Windows system files
+nul
